@@ -1,7 +1,7 @@
 import openai
 
 # Set up OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = 'YOUR-API-KEY'
 
 
 def generate_response(prompt):
